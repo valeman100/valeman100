@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeman100
-- 👀 I’m interested in Machine Learning, Deep Learning and autonomous systems
+- 👀 I’m interested in Machine Learning, Deep Learning and fundation systems
 - 🌱 I’m currently learning the state of the art of ML
-- 💞️ I’m looking to collaborate on autonomous flight
+- 💞️ I’m looking to collaborate on fundamental ML research
 - 📫 How to reach me: vale.mannucci@live.it
 
 <!---
