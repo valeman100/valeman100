@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeman100
-- 👀 I’m interested in Machine Learning, Deep Learning and fundation systems
+- 👀 I’m interested in delightful user experiences powered by modern LLMs
 - 🌱 I’m currently working as AI developer @ Joinrs.com
-- 💞️ I’m looking to collaborate on fundamental ML research
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: val.mannucci@gmail.com
 
 <!---
