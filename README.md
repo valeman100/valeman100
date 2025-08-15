@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valeman100
 - 👀 I’m interested in delightful user experiences powered by modern LLMs
 - 🌱 I’m currently working as AI developer @ Joinrs.com
-- 💞️ I’m looking to collaborate: (https://www.valeriomannucci.com/)[my personal site]
+- 💞️ I’m looking to collaborate: [my personal site](https://www.valeriomannucci.com/)
 - 📫 How to reach me: val.mannucci@gmail.com
 
 <!---
